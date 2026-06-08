@@ -1,0 +1,5 @@
+# Cloudflare Pages redirects copied into out/_redirects by next export.
+/calculators/wage-jubyu /calc/jubyu 308
+/calculators/wage-jubyu/ /calc/jubyu 308
+/calculators/wage-alba /calc/alba-pay 308
+/calculators/wage-alba/ /calc/alba-pay 308
